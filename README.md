@@ -1,10 +1,10 @@
 # #100DaysOfCoding
 Coding Goals: Cloud computing, neuroimage analysis, visualization mini coding practices.
 
-Day 3. 
+Day 3. </br>
 
-Day 2. Data loader for task fMRI data (data_loader_part_task.py)
+Day 2. Data loader for task fMRI data (data_loader_part_task.py)</br>
 
-Day 1. ICA analysis (ICA.ipynb) 
-  a. Fast ICA
-  b. Canonical ICA
+Day 1. ICA analysis (ICA.ipynb) </br>
+  a. Fast ICA</br>
+  b. Canonical ICA</br>
