@@ -7,4 +7,5 @@ Day 2. Data loader for task fMRI data (data_loader_part_task.py)</br>
 
 Day 1. ICA analysis (ICA.ipynb) </br>
 - [x] Fast ICA</br>
-- [ ] Canonical ICA</br>
+- [x] Group ICA</br>
+- [x] Temporal ICA</br>
